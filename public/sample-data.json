@@ -1,10 +1,10 @@
 {
     "lastName": "Alvarado",
     "bride": "maci",
-    "groom": "hugo",
+    "groom": "Hugo",
     "date": "11/27/2022",
     "time": "3:pm",
-    "location": "malibu, ca",
+    "location": "Malibu, CA",
     "seatingChart": {
         "Sweetheart": [
             [
@@ -13,11 +13,11 @@
                 "*Bride"
             ],
             [
-                "hugo alvarado",
+                "Hugo   Alvarado",
                 "*Groom"
             ]
         ],
-        "1": [
+        "M": [
             [
                 "christian molina",
                 "*Best Man"
@@ -26,34 +26,212 @@
                 "Autumm ames",
                 "*Maid of Honor"
             ],
-            "Jeremy Ty",
-            "Gabriel Santiago",
-            "Roland Price",
-            "Rebecca Price",
-            "Javier Ingram",
-            "Jessica Ingram"
+            "neby ames ",
+            "brian ames",
+            "Al Maldonado",
+            "VIctoria Aguilar ",
+            "Alex Strand",
+            "Chelsea Hampton ",
+            "Lupe Alvarado",
+            "Alexis Molina"
         ],
-        "2": [
+        "A": [
             [
-                "brian ames",
-                "*Father"
+                "Bill Sanders",
+                "*friend"
             ],
             [
-                "neby ames",
-                "*Mother"
+                "Candice Sanders",
+                "*friend"
             ],
             [
-                "lupe alvarado",
-                "*Mother"
+                "Julie Kirkham",
+                "*friend"
             ],
             [
-                "neby ames",
-                "*Mother"
+                "Kevin Kirkham",
+                "*friend"
             ],
-            "Lorene Silva",
-            "Lynne Lopez",
-            "Roland Brooks",
-            "Jeremy Maldonado"
+            " Annaliese Mitts",
+            "Steven Mitts",
+            " Roxy Mitts",
+            "Aaron Kirkham",
+            "Mimi Kirkham",
+            "Sarah Trabiano",
+            "Sarah + 1"
+        ],
+        "C": [
+        
+            [
+                "Laura Nickerson",
+                "*cousin"
+            ],
+            [
+                "Stephen Goldsworth",
+                "*friend"
+            ],
+            [
+                "Buddy Nickerson",
+                "*cousin"
+            ],
+            "Sara Atwater ",
+            "Sheliah Nickerson",
+            "Jerry smith",
+            "Katherine Johnson",
+            " Pamela Miller",
+            "Lee Nickerson",
+            " Brandy Nickerson"
+        ],
+        "I": [
+            [
+                "Samantha Wolfe",
+                "*friend"
+            ],
+            [
+                "Zachary Wolfe",
+                "*friend"
+            ],
+            [
+                "n/a",
+                "*friend"
+            ],
+            [
+                "n/a",
+                "*friend"
+            ],
+            "Stephanie De La paz",
+            " Steph + 1?",
+            "n/a",
+            "n/a",
+            "n/a",
+            "n/a"
+        ],
+        "H": [
+            [
+                "Natalya Kokareva",
+                "*friend"
+            ],
+            [
+                "Svetlana Kokareva ",
+                "*friend"
+            ],
+            [
+                "Victoria Stroh",
+                "*friend"
+            ],
+            [
+                "Vicki + 1",
+                "*friend"
+            ],
+            "John Stroh ",
+            "Steven Stroh",
+            "Denise Stroh",
+            "Annie Fredrickson",
+            "Paytyn Laker",
+            "Timo"
+        ],
+        "U": [
+            [
+                "Karen Oliva",
+                "*groom sister"
+            ],
+            [
+                "Dave Oliva",
+                "* groom brother"
+            ],
+            [
+                "Hugo Oliva",
+                "*groom father"
+            ],
+            [
+                "clara Oliva",
+                "*friend"
+            ],
+            " Crystal Watkins",
+            "Rachel Douglas",
+            "David Ferrandiz",
+            "Roger ulloa",
+            "cynthia ulloa",
+            "Cynthia Castillo",
+            "Ray Castillo"
+        
+        ],
+        "G": [
+            [
+                "Rosemarie Soriano",
+                "*friend"
+            ],
+            [
+                "Raffy Soriano",
+                "*friend"
+            ],
+            [
+                "Maricella Patino ",
+                "*friend"
+            ],
+            [
+                "Maricella + 1",
+                "*friend"
+            ],
+            "Shane Lady",
+            "shane + 1",
+            "Sarah McLachlen",
+            "Sarah + 1",
+            "Lina Henry ",
+            "Lina + 1"
+        ],
+        "O": [
+            [
+                "Jennie  Lanae Andrews",
+                "*friend"
+            ],
+            [
+                "Jennie  + 1",
+                "*friend"
+            ],
+            [
+                "Eva Dascalu",
+                "*friend"
+            ],
+            [
+                "Laurnetiu Dascalu",
+                "*friend"
+            ],
+            "Netti Curry",
+            "Nick Pope",
+            "Thomas Lovinger",
+            " Dominque",
+            "Wael Nanne",
+            "Joud Nanne"
+        ],
+        "4": [
+            [
+                " Dyanna Smith",
+                "*friend"
+            ],
+            [
+                "Lilly",
+                "*friend"
+            ],
+            [
+                "Cristal Alvarez",
+                "*friend"
+            ],
+            [
+                "David Alvarez",
+                "*friend"
+            ],
+            "Jackie Romo",
+            "Alex Romo",
+            "Britt Anfuso",
+            "Keith Anfuso",
+           "Kimberly Dungca",
+            "Kimberly + 1"
+        
+            
+        
+
+
         ]
     }
 }
