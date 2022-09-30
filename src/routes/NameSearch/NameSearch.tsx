@@ -120,10 +120,8 @@ function NameSearch() {
                       table={table}
                     />
 
-
                   ))}
                 </div>  
-  
               );
             }
           })()}
@@ -133,7 +131,5 @@ function NameSearch() {
     </div>
   );
 }
-
-  
 
 export default NameSearch;
