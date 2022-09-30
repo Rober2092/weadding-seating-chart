@@ -1,0 +1,59 @@
+{
+    "lastName": "Alvarado",
+    "bride": "maci",
+    "groom": "hugo",
+    "date": "11/27/2022",
+    "time": "3:pm",
+    "location": "malibu, ca",
+    "seatingChart": {
+        "Sweetheart": [
+            [
+                "maci ames",
+                "maci ames",
+                "*Bride"
+            ],
+            [
+                "hugo alvarado",
+                "*Groom"
+            ]
+        ],
+        "1": [
+            [
+                "christian molina",
+                "*Best Man"
+            ],
+            [
+                "Autumm ames",
+                "*Maid of Honor"
+            ],
+            "Jeremy Ty",
+            "Gabriel Santiago",
+            "Roland Price",
+            "Rebecca Price",
+            "Javier Ingram",
+            "Jessica Ingram"
+        ],
+        "2": [
+            [
+                "brian ames",
+                "*Father"
+            ],
+            [
+                "neby ames",
+                "*Mother"
+            ],
+            [
+                "lupe alvarado",
+                "*Mother"
+            ],
+            [
+                "neby ames",
+                "*Mother"
+            ],
+            "Lorene Silva",
+            "Lynne Lopez",
+            "Roland Brooks",
+            "Jeremy Maldonado"
+        ]
+    }
+}
